@@ -1,0 +1,18 @@
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.exe.config
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Deneme.csproj.AssemblyReference.cache

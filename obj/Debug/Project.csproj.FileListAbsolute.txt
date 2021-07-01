@@ -1,0 +1,153 @@
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.exe.config
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi\bin\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi\obj\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\bin\Debug\Proje Ödevi.exe.config
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\bin\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\bin\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\obj\Debug\Proje Ödevi.pdb
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.exe.config
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.exe
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.pdb
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje Ödevi.exe
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje Ödevi.pdb
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.hesap.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.rapor.resources
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.exe.config
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\bin\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.hesap.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.rapor.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje Ödevi.exe
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Proje Ödevi.pdb
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\bin\Debug\itextsharp.dll
+C:\Users\omerk\Desktop\Yazilim_Yapimi_Final\Yazilim_Yapimi_final\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Berk\Desktop\tasarım\Yazilim_Yapimi_final\obj\Debug\Project.csproj.CopyComplete
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.exe.config
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.exe
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.pdb
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.hesap.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.rapor.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.sohbet_frm.resources
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.exe
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.pdb
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\bin\Debug\Veri_Tabani.mdb
+C:\Users\bengus\Desktop\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\bin\Debug\Veri_Tabani.mdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.exe.config
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\bin\Debug\Proje Ödevi.pdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Project.csprojAssemblyReference.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.hesap.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.rapor.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje_Ödevi.sohbet_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Project.csproj.GenerateResource.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Project.csproj.CopyComplete
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.pdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Veri_Tabani.mdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe.config
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.pdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csprojAssemblyReference.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.hesap.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.rapor.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.sohbet_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.GenerateResource.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.CopyComplete
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.pdb
