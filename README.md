@@ -46,7 +46,9 @@ Oluşturulan bir sohbet ekranı sayesinde satıcı veya alıcılar admin ile mes
 
 # Scrum table
 
+
 ![Ekran Görüntüsü (260)](https://user-images.githubusercontent.com/84200869/124303717-6eb0db80-db6b-11eb-93bd-74c1c4b619d3.png)
+
 
 
 
