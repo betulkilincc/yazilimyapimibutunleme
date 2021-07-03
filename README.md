@@ -2,6 +2,7 @@
 ## Borsa Projesi
 Betül Kılınç 1.Öğretim 192802048
 # Proje Açıklaması
+[Projeyi anlatan video linki](https://youtu.be/cjf3tMvT1K8)
  ## User Story 5
   
   User story 5'te alıcı bir fiyat belirler ve eğer istediği fiyattan satan kişi olmaz ise işlem 
