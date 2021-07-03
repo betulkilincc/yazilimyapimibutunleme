@@ -107,12 +107,7 @@ namespace Proje_Ödevi
                 paratip.ForeColor = Color.Silver;
             }
         }
-
-        private void para_ekle_frm_Load(object sender, EventArgs e)
-        {
-
-        }
         //tasarım için fare tıklaması öncesi ve sonrası için kodlar bitiş
-        
+
     }
 }

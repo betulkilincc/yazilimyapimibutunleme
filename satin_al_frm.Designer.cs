@@ -86,7 +86,7 @@
             this.urunlersatinal.DefaultCellStyle = dataGridViewCellStyle3;
             this.urunlersatinal.GridColor = System.Drawing.Color.Black;
             this.urunlersatinal.Location = new System.Drawing.Point(41, 109);
-            this.urunlersatinal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.urunlersatinal.Margin = new System.Windows.Forms.Padding(4);
             this.urunlersatinal.Name = "urunlersatinal";
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
@@ -109,7 +109,7 @@
             this.filtre_cmbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.filtre_cmbx.FormattingEnabled = true;
             this.filtre_cmbx.Location = new System.Drawing.Point(842, 59);
-            this.filtre_cmbx.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.filtre_cmbx.Margin = new System.Windows.Forms.Padding(4);
             this.filtre_cmbx.Name = "filtre_cmbx";
             this.filtre_cmbx.Size = new System.Drawing.Size(188, 24);
             this.filtre_cmbx.TabIndex = 18;
@@ -125,14 +125,14 @@
             this.urunler_lbl.Name = "urunler_lbl";
             this.urunler_lbl.Size = new System.Drawing.Size(114, 33);
             this.urunler_lbl.TabIndex = 17;
-            this.urunler_lbl.Text = "Ürünler:";
+            this.urunler_lbl.Text = "Urunler:";
             // 
             // satın_al_btn
             // 
             this.satın_al_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.satın_al_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.satın_al_btn.Location = new System.Drawing.Point(228, 617);
-            this.satın_al_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.satın_al_btn.Margin = new System.Windows.Forms.Padding(4);
             this.satın_al_btn.Name = "satın_al_btn";
             this.satın_al_btn.Size = new System.Drawing.Size(211, 46);
             this.satın_al_btn.TabIndex = 15;
@@ -145,7 +145,7 @@
             this.geri_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.geri_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.geri_btn.Location = new System.Drawing.Point(696, 617);
-            this.geri_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.geri_btn.Margin = new System.Windows.Forms.Padding(4);
             this.geri_btn.Name = "geri_btn";
             this.geri_btn.Size = new System.Drawing.Size(156, 46);
             this.geri_btn.TabIndex = 14;
@@ -158,7 +158,7 @@
             this.birim.Font = new System.Drawing.Font("Berlin Sans FB", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.birim.ForeColor = System.Drawing.Color.Silver;
             this.birim.Location = new System.Drawing.Point(426, 576);
-            this.birim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.birim.Margin = new System.Windows.Forms.Padding(4);
             this.birim.Name = "birim";
             this.birim.Size = new System.Drawing.Size(281, 24);
             this.birim.TabIndex = 21;
@@ -213,7 +213,7 @@
             this.cikissatinal.Font = new System.Drawing.Font("Berlin Sans FB", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikissatinal.ForeColor = System.Drawing.Color.Black;
             this.cikissatinal.Location = new System.Drawing.Point(1029, -5);
-            this.cikissatinal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikissatinal.Margin = new System.Windows.Forms.Padding(4);
             this.cikissatinal.Name = "cikissatinal";
             this.cikissatinal.Size = new System.Drawing.Size(43, 44);
             this.cikissatinal.TabIndex = 25;
@@ -226,7 +226,7 @@
             this.satin_al_piyasa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.satin_al_piyasa.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.satin_al_piyasa.Location = new System.Drawing.Point(458, 617);
-            this.satin_al_piyasa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.satin_al_piyasa.Margin = new System.Windows.Forms.Padding(4);
             this.satin_al_piyasa.Name = "satin_al_piyasa";
             this.satin_al_piyasa.Size = new System.Drawing.Size(211, 46);
             this.satin_al_piyasa.TabIndex = 26;
@@ -255,7 +255,7 @@
             this.Controls.Add(this.geri_btn);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "satin_al_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ürün Al";

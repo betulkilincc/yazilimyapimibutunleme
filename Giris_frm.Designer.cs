@@ -47,7 +47,7 @@
             logo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             logo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(102)))), ((int)(((byte)(182)))), ((int)(((byte)(209)))));
             logo.Location = new System.Drawing.Point(255, 153);
-            logo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            logo.Margin = new System.Windows.Forms.Padding(4);
             logo.Name = "logo";
             logo.Size = new System.Drawing.Size(257, 261);
             logo.TabIndex = 8;
@@ -59,11 +59,11 @@
             this.kullacini_txt.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kullacini_txt.ForeColor = System.Drawing.Color.Silver;
             this.kullacini_txt.Location = new System.Drawing.Point(265, 421);
-            this.kullacini_txt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kullacini_txt.Margin = new System.Windows.Forms.Padding(4);
             this.kullacini_txt.Name = "kullacini_txt";
             this.kullacini_txt.Size = new System.Drawing.Size(231, 29);
             this.kullacini_txt.TabIndex = 2;
-            this.kullacini_txt.Text = "Kullanıcı-Adı";
+            this.kullacini_txt.Text = "Kullanici-Adi";
             this.kullacini_txt.Enter += new System.EventHandler(this.kullacini_txt_Enter);
             this.kullacini_txt.Leave += new System.EventHandler(this.kullacini_txt_Leave);
             // 
@@ -73,7 +73,7 @@
             this.sifre_txt.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sifre_txt.ForeColor = System.Drawing.Color.Silver;
             this.sifre_txt.Location = new System.Drawing.Point(265, 473);
-            this.sifre_txt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.sifre_txt.Margin = new System.Windows.Forms.Padding(4);
             this.sifre_txt.Name = "sifre_txt";
             this.sifre_txt.Size = new System.Drawing.Size(231, 29);
             this.sifre_txt.TabIndex = 3;
@@ -87,11 +87,11 @@
             this.gris_btn.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gris_btn.ForeColor = System.Drawing.Color.Black;
             this.gris_btn.Location = new System.Drawing.Point(265, 513);
-            this.gris_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gris_btn.Margin = new System.Windows.Forms.Padding(4);
             this.gris_btn.Name = "gris_btn";
             this.gris_btn.Size = new System.Drawing.Size(109, 42);
             this.gris_btn.TabIndex = 4;
-            this.gris_btn.Text = "Giriş";
+            this.gris_btn.Text = "Giris";
             this.gris_btn.UseVisualStyleBackColor = false;
             this.gris_btn.Click += new System.EventHandler(this.gris_btn_Click);
             // 
@@ -101,11 +101,11 @@
             this.kayit_btn.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kayit_btn.ForeColor = System.Drawing.Color.Black;
             this.kayit_btn.Location = new System.Drawing.Point(383, 513);
-            this.kayit_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kayit_btn.Margin = new System.Windows.Forms.Padding(4);
             this.kayit_btn.Name = "kayit_btn";
             this.kayit_btn.Size = new System.Drawing.Size(115, 42);
             this.kayit_btn.TabIndex = 5;
-            this.kayit_btn.Text = "Kayıt";
+            this.kayit_btn.Text = "Kayit";
             this.kayit_btn.UseVisualStyleBackColor = false;
             this.kayit_btn.Click += new System.EventHandler(this.kayit_btn_Click);
             // 
@@ -119,7 +119,7 @@
             this.cikisgiris.Font = new System.Drawing.Font("Berlin Sans FB", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikisgiris.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.cikisgiris.Location = new System.Drawing.Point(732, -2);
-            this.cikisgiris.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikisgiris.Margin = new System.Windows.Forms.Padding(4);
             this.cikisgiris.Name = "cikisgiris";
             this.cikisgiris.Size = new System.Drawing.Size(36, 44);
             this.cikisgiris.TabIndex = 6;
@@ -143,7 +143,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Giris_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giriş Yap";

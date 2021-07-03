@@ -81,11 +81,11 @@
             this.satis_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.satis_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.satis_btn.Location = new System.Drawing.Point(145, 482);
-            this.satis_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.satis_btn.Margin = new System.Windows.Forms.Padding(4);
             this.satis_btn.Name = "satis_btn";
             this.satis_btn.Size = new System.Drawing.Size(173, 37);
             this.satis_btn.TabIndex = 2;
-            this.satis_btn.Text = "Satış Yap";
+            this.satis_btn.Text = "Satis Yap";
             this.satis_btn.UseVisualStyleBackColor = false;
             this.satis_btn.Click += new System.EventHandler(this.satis_btn_Click);
             // 
@@ -97,11 +97,11 @@
             this.urun_al_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.urun_al_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.urun_al_btn.Location = new System.Drawing.Point(326, 482);
-            this.urun_al_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.urun_al_btn.Margin = new System.Windows.Forms.Padding(4);
             this.urun_al_btn.Name = "urun_al_btn";
             this.urun_al_btn.Size = new System.Drawing.Size(173, 37);
             this.urun_al_btn.TabIndex = 3;
-            this.urun_al_btn.Text = "Ürün Al";
+            this.urun_al_btn.Text = "Urun Al";
             this.urun_al_btn.UseVisualStyleBackColor = false;
             this.urun_al_btn.Click += new System.EventHandler(this.ürün_al_btn_Click);
             // 
@@ -111,7 +111,7 @@
             this.para_ekle_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.para_ekle_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.para_ekle_btn.Location = new System.Drawing.Point(507, 482);
-            this.para_ekle_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.para_ekle_btn.Margin = new System.Windows.Forms.Padding(4);
             this.para_ekle_btn.Name = "para_ekle_btn";
             this.para_ekle_btn.Size = new System.Drawing.Size(173, 37);
             this.para_ekle_btn.TabIndex = 4;
@@ -125,11 +125,11 @@
             this.hesapkapat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.hesapkapat.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hesapkapat.Location = new System.Drawing.Point(699, 527);
-            this.hesapkapat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.hesapkapat.Margin = new System.Windows.Forms.Padding(4);
             this.hesapkapat.Name = "hesapkapat";
             this.hesapkapat.Size = new System.Drawing.Size(153, 37);
             this.hesapkapat.TabIndex = 5;
-            this.hesapkapat.Text = "Çıkış Yap";
+            this.hesapkapat.Text = "Cikis Yap";
             this.hesapkapat.UseVisualStyleBackColor = false;
             this.hesapkapat.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -158,7 +158,7 @@
             this.urunlistele.DefaultCellStyle = dataGridViewCellStyle3;
             this.urunlistele.GridColor = System.Drawing.Color.Black;
             this.urunlistele.Location = new System.Drawing.Point(128, 130);
-            this.urunlistele.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.urunlistele.Margin = new System.Windows.Forms.Padding(4);
             this.urunlistele.Name = "urunlistele";
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
@@ -197,7 +197,7 @@
             this.cikisanasayfa.Font = new System.Drawing.Font("Forte", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikisanasayfa.ForeColor = System.Drawing.Color.Brown;
             this.cikisanasayfa.Location = new System.Drawing.Point(1033, 0);
-            this.cikisanasayfa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikisanasayfa.Margin = new System.Windows.Forms.Padding(4);
             this.cikisanasayfa.Name = "cikisanasayfa";
             this.cikisanasayfa.Size = new System.Drawing.Size(35, 43);
             this.cikisanasayfa.TabIndex = 8;
@@ -212,7 +212,7 @@
             this.avatar.ForeColor = System.Drawing.Color.LightGray;
             this.avatar.Image = ((System.Drawing.Image)(resources.GetObject("avatar.Image")));
             this.avatar.Location = new System.Drawing.Point(157, 80);
-            this.avatar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.avatar.Margin = new System.Windows.Forms.Padding(4);
             this.avatar.Name = "avatar";
             this.avatar.Size = new System.Drawing.Size(51, 46);
             this.avatar.TabIndex = 9;
@@ -225,7 +225,7 @@
             this.sohbet_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.sohbet_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sohbet_btn.Location = new System.Drawing.Point(688, 482);
-            this.sohbet_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.sohbet_btn.Margin = new System.Windows.Forms.Padding(4);
             this.sohbet_btn.Name = "sohbet_btn";
             this.sohbet_btn.Size = new System.Drawing.Size(155, 37);
             this.sohbet_btn.TabIndex = 10;
@@ -239,11 +239,11 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Berlin Sans FB", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(137, 527);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(543, 37);
             this.button1.TabIndex = 11;
-            this.button1.Text = "Alım-Satım Grafiği";
+            this.button1.Text = "Alim-Satim Grafigi";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -268,7 +268,7 @@
             this.Controls.Add(this.kullanici_lbl);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ana_fr";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ana Sayfa";
