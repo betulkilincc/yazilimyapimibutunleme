@@ -50,11 +50,11 @@
             this.kayit_btn.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kayit_btn.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.kayit_btn.Location = new System.Drawing.Point(45, 571);
-            this.kayit_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kayit_btn.Margin = new System.Windows.Forms.Padding(4);
             this.kayit_btn.Name = "kayit_btn";
             this.kayit_btn.Size = new System.Drawing.Size(200, 48);
             this.kayit_btn.TabIndex = 8;
-            this.kayit_btn.Text = "Kayıt Ol";
+            this.kayit_btn.Text = "Kayit Ol";
             this.kayit_btn.UseVisualStyleBackColor = false;
             this.kayit_btn.Click += new System.EventHandler(this.kayit_btn_Click);
             // 
@@ -64,7 +64,7 @@
             this.ad.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ad.ForeColor = System.Drawing.Color.Silver;
             this.ad.Location = new System.Drawing.Point(45, 175);
-            this.ad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ad.Margin = new System.Windows.Forms.Padding(4);
             this.ad.Name = "ad";
             this.ad.Size = new System.Drawing.Size(199, 29);
             this.ad.TabIndex = 9;
@@ -77,7 +77,7 @@
             this.soyad.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.soyad.ForeColor = System.Drawing.Color.Silver;
             this.soyad.Location = new System.Drawing.Point(45, 215);
-            this.soyad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.soyad.Margin = new System.Windows.Forms.Padding(4);
             this.soyad.Name = "soyad";
             this.soyad.Size = new System.Drawing.Size(199, 29);
             this.soyad.TabIndex = 10;
@@ -90,11 +90,11 @@
             this.kullanici_adi.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kullanici_adi.ForeColor = System.Drawing.Color.Silver;
             this.kullanici_adi.Location = new System.Drawing.Point(45, 256);
-            this.kullanici_adi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kullanici_adi.Margin = new System.Windows.Forms.Padding(4);
             this.kullanici_adi.Name = "kullanici_adi";
             this.kullanici_adi.Size = new System.Drawing.Size(199, 29);
             this.kullanici_adi.TabIndex = 11;
-            this.kullanici_adi.Text = "Kullanıcı-Adı";
+            this.kullanici_adi.Text = "Kullanici-Adi";
             this.kullanici_adi.Enter += new System.EventHandler(this.kullanici_adi_Enter);
             this.kullanici_adi.Leave += new System.EventHandler(this.kullanici_adi_Leave);
             // 
@@ -103,7 +103,7 @@
             this.email.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.email.ForeColor = System.Drawing.Color.Silver;
             this.email.Location = new System.Drawing.Point(528, 254);
-            this.email.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.email.Margin = new System.Windows.Forms.Padding(4);
             this.email.Name = "email";
             this.email.Size = new System.Drawing.Size(199, 29);
             this.email.TabIndex = 13;
@@ -116,7 +116,7 @@
             this.telefon.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.telefon.ForeColor = System.Drawing.Color.Silver;
             this.telefon.Location = new System.Drawing.Point(528, 426);
-            this.telefon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.telefon.Margin = new System.Windows.Forms.Padding(4);
             this.telefon.MaxLength = 11;
             this.telefon.Name = "telefon";
             this.telefon.Size = new System.Drawing.Size(199, 29);
@@ -130,7 +130,7 @@
             this.sifre.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sifre.ForeColor = System.Drawing.Color.Silver;
             this.sifre.Location = new System.Drawing.Point(45, 369);
-            this.sifre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.sifre.Margin = new System.Windows.Forms.Padding(4);
             this.sifre.Name = "sifre";
             this.sifre.Size = new System.Drawing.Size(199, 29);
             this.sifre.TabIndex = 15;
@@ -143,7 +143,7 @@
             this.tc.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tc.ForeColor = System.Drawing.Color.Silver;
             this.tc.Location = new System.Drawing.Point(528, 197);
-            this.tc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tc.Margin = new System.Windows.Forms.Padding(4);
             this.tc.MaxLength = 11;
             this.tc.Name = "tc";
             this.tc.Size = new System.Drawing.Size(199, 29);
@@ -157,7 +157,7 @@
             this.adres.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adres.ForeColor = System.Drawing.Color.Silver;
             this.adres.Location = new System.Drawing.Point(528, 369);
-            this.adres.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.adres.Margin = new System.Windows.Forms.Padding(4);
             this.adres.Name = "adres";
             this.adres.Size = new System.Drawing.Size(199, 29);
             this.adres.TabIndex = 17;
@@ -174,7 +174,7 @@
             this.cikiskayit.Font = new System.Drawing.Font("Berlin Sans FB", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikiskayit.ForeColor = System.Drawing.Color.Black;
             this.cikiskayit.Location = new System.Drawing.Point(728, -5);
-            this.cikiskayit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikiskayit.Margin = new System.Windows.Forms.Padding(4);
             this.cikiskayit.Name = "cikiskayit";
             this.cikiskayit.Size = new System.Drawing.Size(43, 44);
             this.cikiskayit.TabIndex = 18;
@@ -188,7 +188,7 @@
             this.gerikayit.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gerikayit.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.gerikayit.Location = new System.Drawing.Point(528, 571);
-            this.gerikayit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gerikayit.Margin = new System.Windows.Forms.Padding(4);
             this.gerikayit.Name = "gerikayit";
             this.gerikayit.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.gerikayit.Size = new System.Drawing.Size(200, 48);
@@ -215,7 +215,7 @@
             this.sifretekrar.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sifretekrar.ForeColor = System.Drawing.Color.Silver;
             this.sifretekrar.Location = new System.Drawing.Point(45, 426);
-            this.sifretekrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.sifretekrar.Margin = new System.Windows.Forms.Padding(4);
             this.sifretekrar.Name = "sifretekrar";
             this.sifretekrar.Size = new System.Drawing.Size(199, 29);
             this.sifretekrar.TabIndex = 22;
@@ -246,7 +246,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "kayit_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kayıt Ol";
