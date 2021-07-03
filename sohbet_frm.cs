@@ -43,6 +43,7 @@ namespace Proje_Ödevi
                {
                    kullanici_cmb.Items.Add(oku["KullaniciAdi"].ToString());
                }
+             
                baglan.Close();
                 
             }
@@ -56,12 +57,13 @@ namespace Proje_Ödevi
                 dataView1.RowFilter = "kimden='" + Kullanici_adi + "' or kime='" + Kullanici_adi + "'";
                 dataView1.Sort = "tarihsaat";
                 urunlistele.DataSource = dataView1;
+                
             }
            
         }
         
 
-        private void gonder_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             if (Kullanici_adi == "admin")
             {
@@ -91,9 +93,13 @@ namespace Proje_Ödevi
                 urunlistele.DataSource = dataView1;
                 mesaj_txt.Text = "";
             }
-         }
+            
+            
+            
 
-        private void geri_don_Click(object sender, EventArgs e)
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
             if (Kullanici_adi == "admin")
             {

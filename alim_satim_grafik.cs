@@ -25,13 +25,11 @@ namespace Proje_Ödevi
         OleDbConnection baglanti = Giris_frm.baglanti_kur();
         int durum, durum_2;
         double satis_toplam = 0,alis_toplam=0;
-        string tarih;
-        string islems;
-        private void grafik_olustur_Click(object sender, EventArgs e)
+        
+        private void button1_Click(object sender, EventArgs e)
         {
             DateTime ilk = Convert.ToDateTime(baslangic_tarih.Text);
             DateTime son = Convert.ToDateTime(bitis_tarih.Text);
-            IslemlistBox.Items.Clear();
             //baglantiyi aciyoruz
             baglanti.Open();
             //İslemler tablosunun girilen değerlere göre okuyoruz
@@ -44,8 +42,7 @@ namespace Proje_Ödevi
                 durum = DateTime.Compare(Convert.ToDateTime(oku["islemTarih"].ToString()), ilk);
                 durum_2 = DateTime.Compare(Convert.ToDateTime(oku["islemTarih"].ToString()), son);
                 //eger ilk tarih girilen tarihden büyükse ve son tarih girilen tarihden küçükse bu islem istenilen tarihler arasındadır
-                double miktar = 0;
-                double UrunTutar = 0;
+                double miktar=0;
                 if (durum >= 0 && durum_2 <= 0 && oku["İslemTuru"].ToString()=="Alis")
                 {
                     miktar=Convert.ToDouble(oku["UrunFiyat"]) * Convert.ToDouble(oku["UrunMiktar"]);
@@ -55,24 +52,18 @@ namespace Proje_Ödevi
                 {
                     miktar = Convert.ToDouble(oku["UrunFiyat"]) * Convert.ToDouble(oku["UrunMiktar"]);
                     satis_toplam += miktar;
-                    tarih = Convert.ToString(oku["islemTarih"]);
-                    UrunTutar = Convert.ToDouble(oku["UrunFiyat"]) * Convert.ToDouble(oku["UrunMiktar"]);
-                    islems = tarih + "   " + UrunTutar.ToString();
-                    IslemlistBox.Items.Add(islems);
                 }
             }
-            this.Controls.Add(IslemlistBox);
+           
             int alis_satis_toplam =Convert.ToInt32(alis_toplam) + Convert.ToInt32(satis_toplam);
             double alis_oran = (alis_toplam / alis_satis_toplam) * 360;
             double satis_oran = (satis_toplam / alis_satis_toplam) * 360;
             double alis_yuzde = (alis_toplam / alis_satis_toplam) * 100;
             double satis_yuzde = (satis_toplam / alis_satis_toplam) * 100;
 
-            
-
             Pen p = new Pen(Color.Black, 1);
             Graphics g = this.CreateGraphics();
-
+            
             Rectangle  rec = new Rectangle(baslangic_tarih.Location.X + baslangic_tarih.Size.Width+75, 75, 250, 260);
             Brush b1 = new SolidBrush(Color.Green);
             Brush b2 = new SolidBrush(Color.Red);
@@ -90,7 +81,6 @@ namespace Proje_Ödevi
             baglanti.Close();
         }
 
-
         private void alim_satim_grafik_Load(object sender, EventArgs e)
         {
             alimyuzde_txt.Visible = false;
@@ -99,7 +89,7 @@ namespace Proje_Ödevi
             satim_lbl.Visible = false;
         }
 
-        private void geri_don_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             if (Kullanici_adi == "admin")
             {

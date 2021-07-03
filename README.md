@@ -1,75 +1,55 @@
-# Yazilim_Yapimi_Final
-# *SINENCE Borsası Final Projemiz*
+# Yazılım Yapımı Bütünleme Ödevim
+## Borsa Projesi
+Betül Kılınç 1.Öğretim 192802048
+# Proje Açıklaması
+ ## User Story 5
+  
+  User story 5'te alıcı bir fiyat belirler ve eğer istediği fiyattan satan kişi olmaz ise işlem 
+gerçekleşmez. Alıcının verdiği fiyattan ürün satan bir kişi olana kadar alım işlemi bekler.
 
-## Projeyi Yapanlar
-Ömer Killik - 192802045 - I.Ogretim
+![readme1](https://user-images.githubusercontent.com/84200869/124284673-d9efb300-db55-11eb-8e23-03ad0cd13109.png)
 
-Berk Tuna - 182805007 - II.Ogretim
-
-## Uygulamanın Kullanımını Anlatan Video Linki;
-[C# ile yazılan Sinence Borsası Projemizin Final Hali](https://youtu.be/-4vTdCO7WU8)
-
-
-[Eski versiyonu Anlatan Video Linki](https://youtu.be/OelW3Pob4Rc)
-# *Proje Açıklaması*
-Önceki versiyona baktığımızda bir çok hata ve eksiklikler olduğunu görüyoruz.Bu eksiklikleri düzeltmek adına 5 adet UserStory devreye giriyor bunlar;
-## User Story 5
-Borsada olan Stop-Limit mantığını projemizde yapmaya çalıştık.İstediği fiyattan ürün olmazsa bekliyor,olduğu anda alım gerçekleşiyor.
-![fiyatbelirle](https://user-images.githubusercontent.com/70074665/122680162-919bd100-d1f6-11eb-89c7-629282ee5b2b.png)
 
 ## User Story 6
-Alım-Satım işlemini PDF formatında rapor olarak alabilme özelliğini ekledik.
+ 
+ Kullanıcı ikonuna tıkladığınızda kullanıcının seçtiği tarih aralığında yaptığı alış ve/veya satışlara ilişkin bir rapor oluşturur.
 
+![raporreadme](https://user-images.githubusercontent.com/84200869/124289359-e296b800-db5a-11eb-89b8-0f660ca91d6b.png)
 
-![raporcikti](https://user-images.githubusercontent.com/70074665/122680432-c5c3c180-d1f7-11eb-8bb6-b909ced8f0b1.png)
+![rapor](https://user-images.githubusercontent.com/84200869/124288337-b9c1f300-db59-11eb-9342-ba3f0ddf2ef5.png)
 
 ## User Story 7
-Farklı para tiplerini o anki kur değerine göre ekleme işlemini yaptık.Yazdığımız kodun genişleme özelliği sayesinde sonsuz kadar yeni para birimini ekleyebiliyoruz. 
-![paraekle](https://user-images.githubusercontent.com/70074665/122680342-4f26c400-d1f7-11eb-9621-fb9ef2ecf0b1.png)
+
+ Alıcı sisteme sadece TL değil farklı para tiplerinden de yükleme yapabiliyor. 
+Yüklenen bu tutar adminin onay verdiği tarihteki döviz kuru üzerinden Tl’ye çevrilerek 
+sisteme aktarılıyor.
+
+![readme3](https://user-images.githubusercontent.com/84200869/124289791-5fc22d00-db5b-11eb-84f5-e198bb016a9e.png)
+
 ## User Story 8
-Son olarak alım işlemlerinde %1 vergilendirme işlemini de yaptık ve veri tabanında olan Muhasebeye parayı yolluyor.
-![muhasebe](https://user-images.githubusercontent.com/70074665/122680823-f0af1500-d1f9-11eb-84d0-e96108e81be8.png)
 
-# Projemizin Scrum Table'ı
-![Scrumtable](https://user-images.githubusercontent.com/70074665/122679460-a1fe7c80-d1f3-11eb-90ad-4be0a12c4339.png)
+Muhasebe kullanıcısı aracılık ücreti olan yüzde 1'lik kesinti alıcıdan tahsil edilir.
 
-## Veri Tabanı
-![veritabanikullanici](https://user-images.githubusercontent.com/70074665/122679467-ad51a800-d1f3-11eb-98f0-e46d34c58d5f.png)
-![veritabaniAlis](https://user-images.githubusercontent.com/70074665/122679476-b5a9e300-d1f3-11eb-9a91-934f0d6bdb8f.png)
-![veritabanisatis](https://user-images.githubusercontent.com/70074665/122679481-bb9fc400-d1f3-11eb-90a4-7b23b9150278.png)
-![veritabaniislemler](https://user-images.githubusercontent.com/70074665/122679492-c4909580-d1f3-11eb-9ccf-fe7f882b9cc9.png)
-![veritabanikUrun](https://user-images.githubusercontent.com/70074665/122679499-c8bcb300-d1f3-11eb-9c18-7fb455551ee4.png)
+![muhasebe](https://user-images.githubusercontent.com/84200869/124294910-e88f9780-db60-11eb-91db-0ef33858019f.png)
+
+## User Story 9
+
+Seçilen zaman aralığında, Pie Chart Grafik olarak yapılan işlemler (Alım ve Satımlar) gösterilir.
+
+![10](https://user-images.githubusercontent.com/84200869/124295861-ff82b980-db61-11eb-87df-466e8449038c.png)
+
+## User Story 10
+
+Oluşturulan bir sohbet ekranı sayesinde satıcı veya alıcılar admin ile mesajlaşabiliyorlar.
+
+![enson](https://user-images.githubusercontent.com/84200869/124296640-db73a800-db62-11eb-8de9-6986ff1b5835.png)
+
+# Scrum table
+
+![Ekran Görüntüsü (260)](https://user-images.githubusercontent.com/84200869/124303717-6eb0db80-db6b-11eb-93bd-74c1c4b619d3.png)
 
 
-![veritabaniurunler](https://user-images.githubusercontent.com/70074665/122679501-ca867680-d1f3-11eb-85d4-7a44246ed088.png)
 
 
 
-## Tüm Tasarım ve Kullanım
 
-## Giriş
-![giris](https://user-images.githubusercontent.com/70074665/122679720-a11a1a80-d1f4-11eb-9875-9ae2f4053212.png)
-## Kayıt Ol
-![kayit](https://user-images.githubusercontent.com/70074665/122680216-d6c00300-d1f6-11eb-9531-0d0c8544402f.png)
-## Anasayfa
-![anasayfa](https://user-images.githubusercontent.com/70074665/122679762-c73fba80-d1f4-11eb-9df0-e62b4e560b5e.png)
-## Satış Yap
-![satisyap](https://user-images.githubusercontent.com/70074665/122679831-1259cd80-d1f5-11eb-827c-371954c1bf97.png)
-## Ürün Al-Piyadan Al
-![alışyap](https://user-images.githubusercontent.com/70074665/122680002-e4c15400-d1f5-11eb-972d-6f66d818a52f.png)
-## Fiyat Belirle
-![fiyatbelirle](https://user-images.githubusercontent.com/70074665/122680162-919bd100-d1f6-11eb-89c7-629282ee5b2b.png)
-## Para Ekle
-![paraekle](https://user-images.githubusercontent.com/70074665/122680342-4f26c400-d1f7-11eb-9621-fb9ef2ecf0b1.png)
-## Hesap
-![hesap](https://user-images.githubusercontent.com/70074665/122680352-58179580-d1f7-11eb-93a8-de5a5cd70ff2.png)
-## Rapor Al
-![rapor](https://user-images.githubusercontent.com/70074665/122680532-4682bd80-d1f8-11eb-8b36-851d535f39c3.png)
-## Rapor Çıktı
-![raporcikti](https://user-images.githubusercontent.com/70074665/122680432-c5c3c180-d1f7-11eb-8bb6-b909ced8f0b1.png)
-## Admin Paneli
-![admin](https://user-images.githubusercontent.com/70074665/122680361-5d74e000-d1f7-11eb-91b2-bf5bfa0fe76d.png)
-## Para İstekleri
-![paraistekleri](https://user-images.githubusercontent.com/70074665/122680493-1c310000-d1f8-11eb-845c-cf0df63edfa4.png)
-## Satış İstekleri
-![satisiskeleri](https://user-images.githubusercontent.com/70074665/122680497-1e935a00-d1f8-11eb-9bbd-b555956d9353.png)

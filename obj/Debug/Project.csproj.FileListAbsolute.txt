@@ -126,53 +126,28 @@ C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Y
 C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Project.csproj.CopyComplete
 C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.exe
 C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\Yazilim_Yapimi_final-main\obj\Debug\Proje Ödevi.pdb
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\bin\Debug\Veri_Tabani.mdb
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe.config
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.pdb
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Project.csproj.AssemblyReference.cache
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.admin_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.hesap.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ist_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.ana_fr.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Giris_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.kayit_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Properties.Resources.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.rapor.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satin_al_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.sohbet_frm.resources
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Project.csproj.GenerateResource.cache
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Project.csproj.CoreCompileInputs.cache
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Project.csproj.CopyComplete
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.exe
-C:\Users\dicle\Desktop\yazilimyapimibutunleme\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.pdb
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\bin\Debug\Veri_Tabani.mdb
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe.config
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.pdb
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Project.csprojAssemblyReference.cache
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.admin_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.hesap.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ist_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.ana_fr.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Giris_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.kayit_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Properties.Resources.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.rapor.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satin_al_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.sohbet_frm.resources
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Project.csproj.GenerateResource.cache
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Project.csproj.CoreCompileInputs.cache
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Project.csproj.CopyComplete
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.exe
-C:\ODEV\ODEVGUNCEL\yazilimyapimibutunlemexx\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.pdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Veri_Tabani.mdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe.config
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\bin\Debug\Proje Ödevi.pdb
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csprojAssemblyReference.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.admin_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.alim_satim_grafik.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.fiyatbelirle.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.hesap.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.ana_fr.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Giris_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.kayit_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.para_ekle_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.rapor.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satin_al_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.satis_ist_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje_Ödevi.sohbet_frm.resources
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.GenerateResource.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Project.csproj.CopyComplete
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.exe
+C:\ennn sonnnn\eeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnsonnnnnnnnnnnnnnnnnnn\yazilimyapimibutunleme\obj\Debug\Proje Ödevi.pdb

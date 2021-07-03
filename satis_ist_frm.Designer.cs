@@ -48,11 +48,10 @@
             // onay_btn
             // 
             this.onay_btn.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.onay_btn.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.onay_btn.Location = new System.Drawing.Point(24, 400);
-            this.onay_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.onay_btn.Font = new System.Drawing.Font("Book Antiqua", 14.25F);
+            this.onay_btn.Location = new System.Drawing.Point(18, 325);
             this.onay_btn.Name = "onay_btn";
-            this.onay_btn.Size = new System.Drawing.Size(156, 46);
+            this.onay_btn.Size = new System.Drawing.Size(117, 37);
             this.onay_btn.TabIndex = 9;
             this.onay_btn.Text = "Onayla";
             this.onay_btn.UseVisualStyleBackColor = false;
@@ -61,11 +60,10 @@
             // onaylama_btn
             // 
             this.onaylama_btn.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.onaylama_btn.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.onaylama_btn.Location = new System.Drawing.Point(433, 400);
-            this.onaylama_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.onaylama_btn.Font = new System.Drawing.Font("Book Antiqua", 14.25F);
+            this.onaylama_btn.Location = new System.Drawing.Point(325, 325);
             this.onaylama_btn.Name = "onaylama_btn";
-            this.onaylama_btn.Size = new System.Drawing.Size(156, 46);
+            this.onaylama_btn.Size = new System.Drawing.Size(117, 37);
             this.onaylama_btn.TabIndex = 8;
             this.onaylama_btn.Text = "Onaylama";
             this.onaylama_btn.UseVisualStyleBackColor = false;
@@ -74,11 +72,10 @@
             // cikis_btn
             // 
             this.cikis_btn.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.cikis_btn.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cikis_btn.Location = new System.Drawing.Point(821, 400);
-            this.cikis_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikis_btn.Font = new System.Drawing.Font("Book Antiqua", 14.25F);
+            this.cikis_btn.Location = new System.Drawing.Point(616, 325);
             this.cikis_btn.Name = "cikis_btn";
-            this.cikis_btn.Size = new System.Drawing.Size(156, 46);
+            this.cikis_btn.Size = new System.Drawing.Size(117, 37);
             this.cikis_btn.TabIndex = 7;
             this.cikis_btn.Text = "Geri";
             this.cikis_btn.UseVisualStyleBackColor = false;
@@ -88,11 +85,10 @@
             // 
             this.filtre_lbl.AutoSize = true;
             this.filtre_lbl.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.filtre_lbl.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.filtre_lbl.Location = new System.Drawing.Point(700, 23);
-            this.filtre_lbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.filtre_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.filtre_lbl.Location = new System.Drawing.Point(525, 19);
             this.filtre_lbl.Name = "filtre_lbl";
-            this.filtre_lbl.Size = new System.Drawing.Size(68, 26);
+            this.filtre_lbl.Size = new System.Drawing.Size(55, 22);
             this.filtre_lbl.TabIndex = 13;
             this.filtre_lbl.Text = "Filtre:";
             // 
@@ -120,8 +116,7 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.satislisteleme.DefaultCellStyle = dataGridViewCellStyle3;
             this.satislisteleme.GridColor = System.Drawing.Color.Black;
-            this.satislisteleme.Location = new System.Drawing.Point(24, 81);
-            this.satislisteleme.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.satislisteleme.Location = new System.Drawing.Point(18, 66);
             this.satislisteleme.Name = "satislisteleme";
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
@@ -132,10 +127,9 @@
             dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.satislisteleme.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.satislisteleme.RowHeadersVisible = false;
-            this.satislisteleme.RowHeadersWidth = 51;
             dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             this.satislisteleme.RowsDefaultCellStyle = dataGridViewCellStyle5;
-            this.satislisteleme.Size = new System.Drawing.Size(953, 278);
+            this.satislisteleme.Size = new System.Drawing.Size(715, 226);
             this.satislisteleme.TabIndex = 12;
             // 
             // filtre
@@ -147,10 +141,9 @@
             "Onaylanan Kullanıclar",
             "Onaylanmayan Kullanıcılar",
             "Onay Bekleyen Kullanıcılar"});
-            this.filtre.Location = new System.Drawing.Point(777, 25);
-            this.filtre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.filtre.Location = new System.Drawing.Point(583, 20);
             this.filtre.Name = "filtre";
-            this.filtre.Size = new System.Drawing.Size(188, 24);
+            this.filtre.Size = new System.Drawing.Size(142, 21);
             this.filtre.TabIndex = 11;
             this.filtre.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -158,13 +151,12 @@
             // 
             this.satis_label.AutoSize = true;
             this.satis_label.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.satis_label.Font = new System.Drawing.Font("Berlin Sans FB", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.satis_label.Location = new System.Drawing.Point(27, 25);
-            this.satis_label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.satis_label.Font = new System.Drawing.Font("Georgia", 15F);
+            this.satis_label.Location = new System.Drawing.Point(20, 20);
             this.satis_label.Name = "satis_label";
-            this.satis_label.Size = new System.Drawing.Size(169, 31);
+            this.satis_label.Size = new System.Drawing.Size(139, 24);
             this.satis_label.TabIndex = 10;
-            this.satis_label.Text = "Satis Istekleri:";
+            this.satis_label.Text = "Satış İstekleri:";
             // 
             // cikissatisistek
             // 
@@ -172,12 +164,11 @@
             this.cikissatisistek.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.cikissatisistek.FlatAppearance.BorderSize = 0;
             this.cikissatisistek.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.cikissatisistek.Font = new System.Drawing.Font("Futura Md BT", 22.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cikissatisistek.ForeColor = System.Drawing.Color.Black;
-            this.cikissatisistek.Location = new System.Drawing.Point(973, -6);
-            this.cikissatisistek.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cikissatisistek.Font = new System.Drawing.Font("Forte", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cikissatisistek.ForeColor = System.Drawing.Color.Brown;
+            this.cikissatisistek.Location = new System.Drawing.Point(730, -5);
             this.cikissatisistek.Name = "cikissatisistek";
-            this.cikissatisistek.Size = new System.Drawing.Size(43, 44);
+            this.cikissatisistek.Size = new System.Drawing.Size(32, 36);
             this.cikissatisistek.TabIndex = 14;
             this.cikissatisistek.Text = "X";
             this.cikissatisistek.UseVisualStyleBackColor = false;
@@ -185,10 +176,10 @@
             // 
             // satis_ist_frm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1011, 495);
+            this.ClientSize = new System.Drawing.Size(758, 402);
             this.Controls.Add(this.cikissatisistek);
             this.Controls.Add(this.filtre_lbl);
             this.Controls.Add(this.satislisteleme);
@@ -199,7 +190,6 @@
             this.Controls.Add(this.cikis_btn);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "satis_ist_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Satış İstekleri";

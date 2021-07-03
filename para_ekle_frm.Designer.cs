@@ -54,7 +54,7 @@
             this.istek_para.ForeColor = System.Drawing.Color.Silver;
             this.istek_para.HideSelection = false;
             this.istek_para.Location = new System.Drawing.Point(169, 347);
-            this.istek_para.Margin = new System.Windows.Forms.Padding(4);
+            this.istek_para.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.istek_para.Name = "istek_para";
             this.istek_para.Size = new System.Drawing.Size(221, 22);
             this.istek_para.TabIndex = 3;
@@ -69,7 +69,7 @@
             this.ekle_btn.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.ekle_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ekle_btn.Location = new System.Drawing.Point(194, 390);
-            this.ekle_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.ekle_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ekle_btn.Name = "ekle_btn";
             this.ekle_btn.Size = new System.Drawing.Size(156, 46);
             this.ekle_btn.TabIndex = 4;
@@ -86,7 +86,7 @@
             this.cikisparaekle.Font = new System.Drawing.Font("Berlin Sans FB", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikisparaekle.ForeColor = System.Drawing.Color.Fuchsia;
             this.cikisparaekle.Location = new System.Drawing.Point(560, -2);
-            this.cikisparaekle.Margin = new System.Windows.Forms.Padding(4);
+            this.cikisparaekle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cikisparaekle.Name = "cikisparaekle";
             this.cikisparaekle.Size = new System.Drawing.Size(43, 44);
             this.cikisparaekle.TabIndex = 7;
@@ -104,7 +104,7 @@
             "USD",
             "GBP"});
             this.paratip.Location = new System.Drawing.Point(169, 187);
-            this.paratip.Margin = new System.Windows.Forms.Padding(4);
+            this.paratip.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.paratip.Name = "paratip";
             this.paratip.Size = new System.Drawing.Size(221, 24);
             this.paratip.TabIndex = 8;
@@ -140,10 +140,11 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "para_ekle_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Para Ekle";
+            this.Load += new System.EventHandler(this.para_ekle_frm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

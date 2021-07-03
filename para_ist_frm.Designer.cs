@@ -53,16 +53,16 @@
             this.paraist_label.Location = new System.Drawing.Point(27, 25);
             this.paraist_label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.paraist_label.Name = "paraist_label";
-            this.paraist_label.Size = new System.Drawing.Size(156, 27);
+            this.paraist_label.Size = new System.Drawing.Size(153, 27);
             this.paraist_label.TabIndex = 0;
-            this.paraist_label.Text = "Para Istekleri:";
+            this.paraist_label.Text = "Para İstekleri:";
             // 
             // cikis_btn
             // 
             this.cikis_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.cikis_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikis_btn.Location = new System.Drawing.Point(821, 400);
-            this.cikis_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.cikis_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cikis_btn.Name = "cikis_btn";
             this.cikis_btn.Size = new System.Drawing.Size(156, 46);
             this.cikis_btn.TabIndex = 3;
@@ -80,7 +80,7 @@
             "Onaylanmayan Kullanıcılar",
             "Onay Bekleyen Kullanıcılar"});
             this.istekler.Location = new System.Drawing.Point(777, 25);
-            this.istekler.Margin = new System.Windows.Forms.Padding(4);
+            this.istekler.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.istekler.Name = "istekler";
             this.istekler.Size = new System.Drawing.Size(188, 24);
             this.istekler.TabIndex = 4;
@@ -91,7 +91,7 @@
             this.onaylama_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.onaylama_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.onaylama_btn.Location = new System.Drawing.Point(433, 400);
-            this.onaylama_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.onaylama_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.onaylama_btn.Name = "onaylama_btn";
             this.onaylama_btn.Size = new System.Drawing.Size(156, 46);
             this.onaylama_btn.TabIndex = 5;
@@ -104,7 +104,7 @@
             this.onay_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.onay_btn.Font = new System.Drawing.Font("Berlin Sans FB", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.onay_btn.Location = new System.Drawing.Point(24, 400);
-            this.onay_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.onay_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.onay_btn.Name = "onay_btn";
             this.onay_btn.Size = new System.Drawing.Size(156, 46);
             this.onay_btn.TabIndex = 6;
@@ -137,7 +137,7 @@
             this.paralisteleme.DefaultCellStyle = dataGridViewCellStyle3;
             this.paralisteleme.GridColor = System.Drawing.Color.Black;
             this.paralisteleme.Location = new System.Drawing.Point(24, 81);
-            this.paralisteleme.Margin = new System.Windows.Forms.Padding(4);
+            this.paralisteleme.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.paralisteleme.Name = "paralisteleme";
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
@@ -175,7 +175,7 @@
             this.cikisanasayfa.Font = new System.Drawing.Font("Berlin Sans FB", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cikisanasayfa.ForeColor = System.Drawing.Color.Black;
             this.cikisanasayfa.Location = new System.Drawing.Point(973, -6);
-            this.cikisanasayfa.Margin = new System.Windows.Forms.Padding(4);
+            this.cikisanasayfa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cikisanasayfa.Name = "cikisanasayfa";
             this.cikisanasayfa.Size = new System.Drawing.Size(43, 44);
             this.cikisanasayfa.TabIndex = 9;
@@ -200,7 +200,7 @@
             this.Controls.Add(this.paraist_label);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "para_ist_frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Para İstekleri";
